@@ -51,16 +51,14 @@ F1 Score - 0.8189
 <img src="images/featimp.png" width="800" height="700">
 </p>
 
-## ROC Curve
+
+## Conclusion
+After running several models and testing the classification accuracies for the greatest F1 Score,  Random Forest classified the best.  Considering that the sample what relatively small and biased towards good, I would like to classify more characters from different anime based off good and evil incorporating more features and I would also use SMOTE to deal with imbalanced classes.  
 
 ![](images/roc.png)
 
-## Conclusion
-After running several models and testing for the greatest F1 Score,  Adaboost classified the best.  Considering that the sample what relatively small and biased towards good, I would like to classify characters based off good and evil incorporating more features and also used SMOTE to deal with imbalanced classes.  
+## THERE IS GOOD IN THE WORLD (Fictional World :))
 
-
-
-
-
-
-
+<p align="center">
+<img src="images/publisher.png" width="400" height="400">
+</p>
