@@ -3,6 +3,13 @@
 ## Project Purpose and Description
 The purpose of this project was to classify comic book characters as either good or evil based off features relating to their powerstats and identification. 
 
+## Tools (all using Python and its various libraries)
+   - Pandas
+   - Numpy
+   - Seaborn
+   - Matplotlib
+   - Scikit Learn
+
 ## Data
 The Data for this project was scraped from the [Superhero API](https://superheroapi.com/).  Numerical Data from the powerstats category and categoral data such as the characters' biography, appearance, work, and connections were utilized.  
 
